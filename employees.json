@@ -1,0 +1,18 @@
+{
+  "employeeId": 1001,
+  "firstName": "John",
+  "lastName": "Doe",
+  "email": "john.doe@company.com",
+  "phoneNumber": "+1-555-123-4567",
+  "department": "Engineering",
+  "position": "Software Engineer",
+  "salary": 95000,
+  "hireDate": "2024-03-15",
+  "isActive": true,
+  "address": {
+    "street": "123 Main Street",
+    "city": "Chicago",
+    "state": "IL",
+    "zipCode": "60601"
+  }
+}
